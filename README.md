@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # napari-mini-plugin
 
 [![License MIT](https://img.shields.io/pypi/l/napari-mini-plugin.svg?color=green)](https://github.com/zhuowenzhao/napari-mini-plugin/raw/main/LICENSE)
@@ -66,6 +65,3 @@ If you encounter any problems, please [file an issue] along with a detailed desc
 [tox]: https://tox.readthedocs.io/en/latest/
 [pip]: https://pypi.org/project/pip/
 [PyPI]: https://pypi.org/
-=======
-# napari-mini-plugin
->>>>>>> 912f33f9f17e4ab47544209cb5f93ddd859c54a6
